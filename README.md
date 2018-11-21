@@ -45,3 +45,13 @@ $ ng generate component <nombre>
 # o tambien
 $ ng g c <nombre>
 ```
+
+## Para probar como Angular renderizara informacion haremos lo siguiente
+
+Usando esta pagina [link](https://jsonplaceholder.typicode.com/)
+
+
+
+## Libro para angular
+
+[link](https://drive.google.com/file/d/1BUjX2S8rX5fFK4VldKDEuxd8m5pAybgN/view?usp=sharing)
