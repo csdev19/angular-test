@@ -42,4 +42,6 @@ Si queremos crear un componente usando angular **"ng"**:
 
 ```console
 $ ng generate component <nombre>
+# o tambien
+$ ng g c <nombre>
 ```
