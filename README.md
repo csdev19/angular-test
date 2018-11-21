@@ -55,3 +55,6 @@ Usando esta pagina [link](https://jsonplaceholder.typicode.com/)
 ## Libro para angular
 
 [link](https://drive.google.com/file/d/1BUjX2S8rX5fFK4VldKDEuxd8m5pAybgN/view?usp=sharing)
+
+
+### Me quede en 40:46
